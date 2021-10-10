@@ -38,3 +38,5 @@ const handleSubmit = (e) => {
 };
 
 form.addEventListener('submit', handleSubmit);
+
+console.log('hi')
